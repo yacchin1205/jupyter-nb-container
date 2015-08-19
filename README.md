@@ -1,6 +1,6 @@
 # jupyter-nb-container
 
-Dockerfile for building the container installed Jupyter Notebook.
+Dockerfile for building the container with Jupyter Notebook.
 
 # How to install
 
